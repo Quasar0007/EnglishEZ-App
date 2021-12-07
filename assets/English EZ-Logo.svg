@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="837" height="539.334" viewBox="0 0 837 539.334">
+  <defs>
+    <filter id="English_EZ" x="0" y="195.334" width="837" height="344" filterUnits="userSpaceOnUse">
+      <feOffset dy="11" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18.5" result="blur"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="English_EZ-Logo" data-name="English EZ-Logo" transform="translate(-81.504 -498.447)">
+    <g id="Group_69700" data-name="Group 69700" transform="translate(-41.481 154.166)">
+      <rect id="Rectangle_3585" data-name="Rectangle 3585" width="45.547" height="199.704" rx="22.773" transform="translate(397.337 344.281)" fill="#8759f2"/>
+      <rect id="Rectangle_3586" data-name="Rectangle 3586" width="45.547" height="199.704" rx="22.773" transform="translate(558.502 344.281)" fill="#00d4e6"/>
+      <rect id="Rectangle_3587" data-name="Rectangle 3587" width="45.547" height="105.108" rx="22.773" transform="translate(477.919 391.579)" fill="#ff3e80"/>
+      <rect id="Rectangle_3588" data-name="Rectangle 3588" width="45.547" height="105.108" rx="22.773" transform="translate(639.084 391.579)" fill="#ffc300"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 81.5, 498.45)" filter="url(#English_EZ)">
+      <text id="English_EZ-2" data-name="English EZ" transform="translate(418.5 412.83)" fill="#fff" font-size="172" font-family="TypoGraphica" letter-spacing="0.022em"><tspan x="-362.582" y="0">English EZ</tspan></text>
+    </g>
+  </g>
+</svg>
